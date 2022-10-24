@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Amaranth&family=Raleway:ital,wght@1,500&display=swap');
+
+:root{
+background-image: url(/image/ss.png);
+}
+body{font-family: 'raleway';}
+
+h1.enseniar{font-size: 2rem;
+background-color: orange;}
+
+h2.brownie{
+    font-size: 3rem;
+    background-color: rgb(245, 147, 171);
+
+}
+.fondoB{display: flex;
+}
+.fotobrownie{
+    max-width: 30em;
+    max-height: 30em;
+border: 10px solid rgb(245, 147, 171);
+}
+
+.ingredienteB{
+    font-size: 3rem;
+    background-color: rgb(245, 147, 171);
+}
+
+.manteca{
+    font-size: 2rem;
+    background-color: rgb(243, 197, 208);
+}
+.procedimientoB{
+    font-size: 3rem;
+    background-color: rgb(245, 147, 171);
+}
+
+.minutos45{
+    font-size: 2rem;
+    background-color: rgb(116, 49, 66);
+}
+
+.preparado{
+    font-size: 2rem;
+    background-color: rgb(243, 197, 208); 
+}
+
+.boton1:hover{
+    background-color: rgb(116, 49, 66);
+    font-size: 1rem;
+
+}
+.centro2{
+    background-color:rgb(51, 141, 141); 
+}
+
+.ingrRR{
+    font-size: 2rem;
+    background-color:rgb(51, 141, 141); 
+}
+
+.fotovelvet{
+    max-width: 40rem;
+    max-height: 50rem;
+border: 10px solid rgb(51, 141, 141);
+}
+
+.redvelevet{
+    font-size: 3rem;
+    background-color: rgb(51, 141, 141)}
+
+.fondoR{
+    display: flex;
+}
+
+.p1{
+    font-size: 1rem;
+    background-color: rgb(133, 226, 226);}
+
+.ul1{
+    font-size: 1rem;
+    background-color:rgb(133, 226, 226);}
+
+.p2{
+    font-size: 1rem;
+    background-color:rgb(133, 226, 226);}
+
+.ul2{
+    font-size: 1rem;
+    background-color:rgb(133, 226, 226) ;}
+
+.proced{
+    font-size: 3rem;
+    background-color: rgb(51, 141, 141) ;
+}
+
+.hora1{
+    font-size: 2rem;
+    background-color: rgb(34, 95, 95) ;
+}
+
+.prepred{
+    font-size: 2rem;
+    background-color:rgb(133, 226, 226) ;
+}
+
+.boton2:hover{
+    background-color: rgb(34, 95, 95);
+    font-size: 1rem;
+
+}
+.centro3{
+    font-size: 3rem;
+    background-color: rgb(83, 182, 74);
+}
+.cheescacke{
+    background-color:rgb(83, 182, 74) ;
+}
+.fondoC{
+    display: flex;
+}
+
+.fotocheees{
+    max-width: 70rem;
+    max-height: 50rem;
+border: 10px solid rgb(83, 182, 74);
+}
+h2.ingreCH{
+    font-size: 3rem;
+    background-color: rgb(83, 182, 74);
+}
+
+.galletita{
+    font-size: 2rem;
+    background-color:rgb(140, 212, 133)  ;
+}
+
+.prodec{
+    font-size: 3rem;
+    background-color:  rgb(83, 182, 74);
+}
+
+.minutos30{
+    font-size: 2rem;
+    background-color: rgb(46, 104, 41) ;
+}
+.procedo{
+    font-size: 2rem;
+    background-color: rgb(83, 182, 74) ;
+}
+.boton3:hover{
+    background-color: rgb(46, 104, 41);
+    font-size: 1rem;
+}
+.redes{
+    background-color: lightslategray;
+    font-size: 1rem;
+}
